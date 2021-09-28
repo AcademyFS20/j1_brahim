@@ -1,8 +1,30 @@
 li{
-    display: inline;
+    display: inline-block;
   }
 
 img
 {
     width: 300px;
+}
+.rouge{
+  color:red;
+}
+.bleu{
+  color:blue;
+}
+.vert{
+  color:green;
+}
+.brouge{
+  background-color:red;
+}
+.bbleu{
+  background-color:blue;
+}
+.bvert{
+  background-color:green;
+}
+footer{
+
+text-align: center; 
 }
